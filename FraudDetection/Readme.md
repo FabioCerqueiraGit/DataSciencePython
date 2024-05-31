@@ -1,4 +1,4 @@
-## Detecção de Fraude na Empresa Enron Corporation
+## Detecção de Fraude na Empresa Enron Corporation.
 Projeto de Ciência de Dados realizado por Fábio Cerqueira
 
 ## Contexto
