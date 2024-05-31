@@ -10,72 +10,72 @@ O conjunto de dados pertence ao Enron Corpus, um banco de dados massivo com mais
 ## Metodologia Utilizada
 CRISP-DM (Cross-Industry Standard Process for Data Mining)
 
-1. Compreensão do Negócio (Business Understanding)
+<h3>1. Compreensão do Negócio (Business Understanding)</h3>
 
-Objetivo:
+<h4>Objetivo:</h4>
 
 - Entender o contexto e os objetivos do projeto.
 - Definir o problema: explorar a comunicação interna da Enron em busca de fraudes.
 
-2. Compreensão dos Dados (Data Understanding)
+<h3>2. Compreensão dos Dados (Data Understanding)</h3>
 
-Atividades:
+<h4>Atividades:</h4>
 
 - Coletar os datasets disponíveis.
 - Explorar e verificar a qualidade dos dados.
 - Entender as principais características e variáveis dos datasets.
 
-Ações:
+<h4>Ações:</h4>
 
 - Carregamento dos datasets fornecidos.
 - Análise exploratória inicial para verificar a estrutura e o conteúdo dos dados.
 
-3. Preparação dos Dados (Data Preparation)
+<h3>3. Preparação dos Dados (Data Preparation)</h3>
 
-Atividades:
+<h4>Atividades:</h4>
 
 - Limpeza e transformação dos dados.
 - Integração de múltiplas fontes de dados.
 - Seleção das variáveis relevantes para análise.
 
-Ações:
+<h4>Ações:</h4>
 
 - Remoção de valores ausentes e limpeza dos textos.
 - Normalização dos dados textuais.
 - Preparação dos dados para análise de texto e modelagem.
 
-4. Modelagem (Modeling)
+<h3>4. Modelagem (Modeling)</h3>
 
-Atividades:
+<h4>Atividades:</h4>
 
 - Seleção e aplicação de técnicas de modelagem apropriadas.
 - Treinamento e validação dos modelos.
 
-Ações:
+<h4>Ações:</h4>
 
 - Utilização de modelos de detecção de anomalias (Isolation Forest) para identificar fraudes.
 - Feature engineering para criar variáveis relevantes para a modelagem.
 
-5. Avaliação (Evaluation)
+<h3>5. Avaliação (Evaluation)</h3>
 
-Atividades:
+<h4>Atividades:</h4>
 
 - Avaliação dos resultados dos modelos.
 - Verificação da performance e validação das suposições.
 
-Ações:
+<h4>Ações:</h4>
 
 - Análise dos scores e anomalias detectadas pelo modelo.
 - Interpretação dos resultados para verificar a eficácia do modelo.
 
-6. Implementação (Deployment)
+<h3>6. Implementação (Deployment)</h3>
 
-Atividades:
+<h4>Atividades:</h4>
 
 - Implementação prática dos modelos e das análises.
 - Comunicação dos resultados aos stakeholders.
 
-Ações:
+<h4>Ações:</h4>
 
 - Geração de visualizações e relatórios claros e informativos.
 - Salvamento dos modelos para futuras análises.
