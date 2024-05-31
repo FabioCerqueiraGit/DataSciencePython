@@ -11,6 +11,7 @@ O conjunto de dados pertence ao Enron Corpus, um banco de dados massivo com mais
 CRISP-DM (Cross-Industry Standard Process for Data Mining)
 
 1. Compreensão do Negócio (Business Understanding)
+
 Objetivo:
 
 - Entender o contexto e os objetivos do projeto.
