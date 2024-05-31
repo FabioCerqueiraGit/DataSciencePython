@@ -10,8 +10,14 @@ Este conjunto de dados contém mais de 492 transações fraudulentas em um total
 ## Metodologia Utilizada
 
 Definição do Problema: Identificar padrões e características comuns em transações fraudulentas.
+
 Coleta e Preparação dos Dados: Carregar e limpar o conjunto de dados, dividindo em conjuntos de treino e teste.
+
 Análise Descritiva: Exploração dos dados para entender suas principais características.
+
 Análise Diagnóstica: Investigar as causas e correlações relacionadas às fraudes.
+
 Análise Preditiva: Construir um modelo de machine learning para prever fraudes.
+
 Análise Prescritiva: Propor ações com base nas análises anteriores para minimizar fraudes.
+
