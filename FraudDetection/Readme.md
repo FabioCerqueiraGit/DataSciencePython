@@ -17,6 +17,7 @@ Objetivo:
 - Definir o problema: explorar a comunicação interna da Enron em busca de fraudes.
 
 2. Compreensão dos Dados (Data Understanding)
+
 Atividades:
 
 - Coletar os datasets disponíveis.
@@ -29,6 +30,7 @@ Ações:
 - Análise exploratória inicial para verificar a estrutura e o conteúdo dos dados.
 
 3. Preparação dos Dados (Data Preparation)
+
 Atividades:
 
 - Limpeza e transformação dos dados.
@@ -42,6 +44,7 @@ Ações:
 - Preparação dos dados para análise de texto e modelagem.
 
 4. Modelagem (Modeling)
+
 Atividades:
 
 - Seleção e aplicação de técnicas de modelagem apropriadas.
@@ -53,6 +56,7 @@ Ações:
 - Feature engineering para criar variáveis relevantes para a modelagem.
 
 5. Avaliação (Evaluation)
+
 Atividades:
 
 - Avaliação dos resultados dos modelos.
@@ -64,6 +68,7 @@ Ações:
 - Interpretação dos resultados para verificar a eficácia do modelo.
 
 6. Implementação (Deployment)
+
 Atividades:
 
 - Implementação prática dos modelos e das análises.
