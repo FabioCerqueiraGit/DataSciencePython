@@ -16,4 +16,4 @@ O conjunto de dados pertence ao Enron Corpus, um banco de dados massivo com mais
 ## Metodologia Utilizada
 CRISP-DM (Cross-Industry Standard Process for Data Mining)
 
-[Clique aqui para acessar o Projeto](https://github.com/FabioCerqueiraGit/DataSciencePython/tree/f334bfb2b9a521ed8b415cd58a3d67bab6203a57/FraudDetection)
+[Clique aqui para acessar o Projeto](https://github.com/FabioCerqueiraGit/DataSciencePython/tree/main/FraudDetection)
