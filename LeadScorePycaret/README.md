@@ -52,4 +52,4 @@ Para conectar a tabela do PostgreSQL ao Power BI, seguiremos os passos abaixo:
 Após seguir os passos acima, os novos dados de leads serão conectados ao dashboard do Power BI e aparecerão conforme mostrado na seção de tabelas.
 
 ### Direitos Autorais
-Esse estudo e experimento é baseado na publicação realizada em fevereiro de 2023 no Geek Culture por Marcello Dichiera.
+Esse estudo e experimento é **baseado** na publicação realizada em fevereiro de 2023 no Geek Culture por Marcello Dichiera.
